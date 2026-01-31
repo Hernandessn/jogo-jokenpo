@@ -9,7 +9,9 @@
 > Jogo clássico de Pedra, Papel e Tesoura desenvolvido durante a formação **DevClub**. Desafie a Alexa e teste sua sorte!
 
 ---
-
+## Demonstrações
+<img src="./assets/Captura de tela 2026-01-31 172148.png" />
+<img src="./assets/Captura de tela 2026-01-31 172200.png" />
 ## 📋 Sobre o Projeto
 
 Jogo interativo de Jokenpo (Pedra, Papel e Tesoura) onde você compete contra a Alexa (inteligência artificial). O jogo conta pontos, exibe as escolhas de cada jogador e determina o vencedor em tempo real.
